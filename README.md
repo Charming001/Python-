@@ -1,4 +1,4 @@
-# Python-
+# Python
 新手小白入门级Python教程
 
 一、Python环境的安装
